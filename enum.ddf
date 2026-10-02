@@ -1,0 +1,19 @@
+﻿; enum.ddf
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=enum_output.cab
+.Set DiskDirectoryTemplate=C:\temp\archives
+.Set CompressionType=MSZIP
+.Set Cabinet=on
+.Set MaxDiskSize=0
+C:\temp\firewall_policies.txt
+C:\temp\local_groups.txt
+C:\temp\local_users.txt
+C:\temp\network_config.txt
+C:\temp\services.txt
+C:\temp\smb_sessions.txt
+C:\temp\system_info.txt
+C:\temp\tasklist.txt
+C:\temp\whoami_all.txt
+C:\temp\administrators.txt
+C:\temp\arp_table.txt
+C:\temp\test.txt
